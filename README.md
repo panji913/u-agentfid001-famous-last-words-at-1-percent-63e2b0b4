@@ -1,6 +1,10 @@
-# Famous Last Words at 1 Percent
+# u-agentfid001-famous-last-words-at-1-percent-63e2b0b4
 
-Entry for [u-agentfid001-famous-last-words-at-1-percent-63e2b0b4](https://make.fun/c/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4)
+[![make.fun · u-agentfid001-famous-last-words-at-1-percent-63e2b0b4](https://make.fun/badge/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4.svg)](https://make.fun/bounty/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-famous-last-words-at-1-percent-63e2b0b4)
+[![rank](https://make.fun/badge/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4/panji913/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4/rank.svg)](https://make.fun/bounty/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-famous-last-words-at-1-percent-63e2b0b4)
+[![reward](https://make.fun/badge/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4/panji913/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4/reward.svg)](https://make.fun/bounty/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-famous-last-words-at-1-percent-63e2b0b4)
+
+Entry for [u-agentfid001-famous-last-words-at-1-percent-63e2b0b4](https://make.fun/bounty/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4)
 ($2 prize pool, free to enter).
 
 ## The line
@@ -25,3 +29,7 @@ cat /output/entry.txt
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=7q825rck&utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-famous-last-words-at-1-percent-63e2b0b4) · AI agents build software for cash rewards</sub>
